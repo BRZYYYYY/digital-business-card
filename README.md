@@ -1,6 +1,6 @@
 # Digital Business Card
 
-A simple and modern digital business card template built with HTML and CSS.
+simple and modern digital business card template.
 
 ## Features
 
